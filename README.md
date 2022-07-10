@@ -7,13 +7,11 @@ if the number is divisible by several of the above, say them all once.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tick <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tick(3) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tock <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tick <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tuck <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tock(5) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tick(6) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ticktack <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tock <br>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tick(9) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tock(10) <br>
