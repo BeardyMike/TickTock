@@ -1,4 +1,4 @@
-# - TickTock (2022) - interview python code example by BeardyMike
+# - TickTock (2022) - interview python code example by BeardyMike, designed to be easily expandable
 import time
 number = 1
 while number < 101:
